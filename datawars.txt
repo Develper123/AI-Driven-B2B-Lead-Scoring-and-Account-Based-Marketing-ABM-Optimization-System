@@ -1,0 +1,90 @@
+In this lab, we will explore the fundamental concepts of machine learning and understand its significance in various applications. Machine learning is a subset of artificial intelligence that involves training computers to learn from data and make decisions or predictions without explicit programming. Through this lab, you'll gain insight into the basics of machine learning and its real-world implications.
+
+Introduction to Machine Learning
+What is Machine Learning?
+Machine learning is a field of study that enables computers to learn from data and improve their performance over time. It involves training models to recognize patterns, make predictions, or make decisions based on input data.
+
+In 1959, Arthur Samuel, a computer scientist who pioneered the study of artificial intelligence, described machine learning as “the study that gives computers the ability to learn without being explicitly programmed.”
+
+A more technical definition given by Tom M. Mitchell’s (1997) : “A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P, if its performance at tasks in T, as measured by P, improves with experience E.”
+
+Machine learning is a subset of Artificial Intelligence. It is the study of making machines more human-like in their behavior and decisions by giving them the ability to learn and develop their own programs. This is done with minimum human intervention, i.e., no explicit programming. The learning process is automated and improved based on the experiences of the machines throughout the process.
+
+
+Preview
+Good quality data is fed to the machines, and different algorithms are used to build ML models to train the machines on this data. The choice of algorithm depends on the type of data at hand and the type of activity that needs to be automated.
+
+Types of Machine Learning
+Types of Machine Learning:
+Supervised Learning:
+In this type, models are trained on labeled data, learning to map input data to correct output labels. Examples include classification and regression problems.
+
+Unsupervised Learning:
+Here, models analyze unlabeled data to find hidden patterns or groupings. Clustering and dimensionality reduction are common unsupervised tasks.
+
+Reinforcement Learning:
+Reinforcement learning refers to goal-oriented algorithms, which learn how to attain a complex objective (goal) or maximize along a particular dimension over many steps. This method allows machines and software agents to automatically determine the ideal behavior within a specific context in order to maximize its performance. Simple reward feedback is required for the agent to learn which action is best; this is known as the reinforcement signal. For example, maximize the points won in a game over many moves.
+
+
+Preview
+Applications of Machine Learning:
+Machine learning is used in various domains, including:
+
+Healthcare for disease prediction and diagnosis.
+Finance for fraud detection and stock market analysis.
+Marketing for customer segmentation and recommendation systems.
+Autonomous vehicles for object detection and navigation.
+Natural language processing for sentiment analysis and language translation.
+Quiz
+1
+What is the primary goal of machine learning?
+
+
+The primary goal of machine learning is to create machines that can perform only a single task.
+
+
+The primary goal of machine learning is to enable computers to learn from data and improve their performance on specific tasks over time.
+
+
+The primary goal of machine learning is to replace human decision-making entirely.
+
+Correct!
+2
+What is the difference between supervised and unsupervised learning?
+
+
+Unsupervised learning analyzes unlabeled data to discover patterns or relationships without explicit output labels.
+
+
+Supervised learning and unsupervised learning are interchangeable terms with no distinct differences.
+
+
+Supervised learning only uses unlabeled data and does not require any correct answers during training.
+
+
+Supervised learning involves training models on labeled data, where the correct answers are provided, and the model learns to map input data to output labels.
+
+Correct!
+3
+Select two examples of applications for machine learning in real-world scenarios.
+
+
+In marketing, machine learning is utilized for customer segmentation, allowing businesses to target specific groups with personalized advertisements.
+
+
+Machine learning is applied in healthcare for disease prediction and diagnosis, using patient data to identify potential health issues.
+
+
+Machine learning is exclusively used in robotics
+
+
+Machine learning is only used in theoretical research and does not have practical applications in real-world scenarios.
+
+Correct!
+
+
+
+
+
+
+

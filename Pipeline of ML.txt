@@ -1,0 +1,80 @@
+A machine learning workflow is the end-to-end construct that orchestrates the flow of data into, and output from, a machine learning model (or set of multiple models).
+
+In this lab, we will delve into the foundational concepts of the machine learning workflow. Machine learning is a dynamic process that involves multiple stages, from data gathering to model evaluation. Understanding this workflow is essential for successfully building and deploying machine learning solutions.
+
+Machine learning workflow:
+
+Gathering Data:
+The first step in the machine learning workflow is collecting relevant data. This could involve obtaining data from various sources such as databases, APIs, or sensors. High-quality and diverse data is crucial for training accurate models.
+
+Data Pre-processing:
+Raw data often requires cleaning and transformation before being used for training. This step involves handling missing values, normalizing data, and dealing with outliers. Properly pre-processed data ensures model effectiveness and reliability.
+
+Why is Data Pre-processing Essential?
+
+Data pre-processing is a crucial step in refining raw data into a usable format, priming it for model training. Its significance lies in optimizing the performance of applied models within machine learning and deep learning projects.
+
+In real-world scenarios, data often arrives in an untidy state. Several types of messy data include:
+
+Missing Data: Instances of missing data occur due to irregular creation intervals or technical glitches, as seen in systems like IoT applications.
+
+Noisy Data: Also known as outliers, noisy data arises from human errors during manual data collection or device-related issues during data acquisition.
+
+Inconsistent Data: Inconsistent data stems from human errors such as naming discrepancies or value inconsistencies, as well as data duplication.
+
+Selecting the Model:
+Different types of data require different models. Choosing the right model architecture is crucial for achieving optimal performance. Researching and understanding various model types, such as regression, classification, or clustering, helps in making informed decisions.
+
+Training and Testing:
+Once a model is selected, it's time to train it using the prepared data. Training involves feeding the model with input data and adjusting its parameters to learn patterns. Testing helps ensure that the model generalizes well to new, unseen data.
+
+Evaluation:
+After training and testing, model evaluation is essential. Metrics like accuracy, precision, recall, and F1-score help assess the model's performance. This evaluation phase determines whether the model meets the desired criteria and performs effectively in real-world scenarios.
+
+dia Photo by link
+
+Quiz
+Let's check your knowledge!
+
+1
+Why is data gathering a critical first step in the machine learning workflow?
+
+
+Data gathering is an optional step in the machine learning workflow and doesn't significantly impact the model's performance.
+
+
+Data gathering provides the foundation for training and testing models, ensuring they are representative of real-world scenarios.
+
+
+Data gathering provides the foundation for testing models only, ensuring they are representative of real-world scenarios.
+
+
+Models can learn effectively without a representative dataset.
+
+Correct!
+2
+What is the purpose of the training and testing phases in the workflow?
+
+
+The purpose of the training and testing phases in the workflow is to ensure that the model can learn patterns from the data and generalize its knowledge to make accurate predictions on new, unseen data.
+
+
+The training and testing phases in the workflow are irrelevant and can be skipped since models inherently understand all types of data without any need for learning or evaluation.
+
+
+The purpose of the training and testing phases in the workflow is to ensure that the model can learn patterns from the data and memorize the learned patterns.
+
+Correct!
+3
+Why is model evaluation crucial in the machine learning workflow?
+
+
+Model evaluation provides a way to quickly complete the machine learning project.
+
+
+Model evaluation measures the performance of the model and ensures its effectiveness on new, unseen data.
+
+
+Model evaluation is unnecessary as machine learning models always perform perfectly.
+
+Correct!
