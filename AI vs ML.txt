@@ -1,0 +1,64 @@
+People often use the terms Artificial Intelligence (AI) and Machine Learning(ML) interchangeably. However, these trending technologies do exhibit distinct differences in terms of scope, applications, and more.
+
+What is artificial intelligence?
+Artificial intelligence (AI) is the ability of a computer or a robot controlled by a computer to do tasks that are usually done by humans because they require human intelligence and discernment.
+
+Although artificial intelligence is often thought of as a system in itself, it is a set of technologies implemented in a system to enable it to reason, learn, and act to solve a complex problem.
+
+History of AI
+Artificial intelligence (AI) traces its origins back to the late 1940s, with pioneers like Alan Turing exploring the concept of machine intelligence. A significant breakthrough in 1956 demonstrated that machines, given abundant memory, could solve problems, leading to the creation of the General Problem Solver. Over the following decades, AI progressed through expert systems that learned from experience and could make predictions. Despite an initial surge of enthusiasm, funding reductions occurred in the mid-1970s due to inflated claims. The late 1980s marked a resurgence, driven by advancements in tasks like chess and computer vision. Hardware improvements in the mid-1990s propelled further growth, with AI making notable strides in image recognition. The early 2000s witnessed the emergence of self-learning neural networks and generative model-based reinforcement learning, transforming AI's capabilities across diverse fields like object classification, language processing, and speech recognition.
+
+In recent years, AI has undergone significant evolution, shaping transformative applications across various domains. It has grown from its foundational concepts in the mid-20th century to become a cornerstone of modern technology, reshaping industries and daily life.
+
+Different fields under AI to clear common misconceptions
+Artificial Intelligence (AI) is the general term for being able to make computers do things that require intelligence if done by humans. AI can be broken down into two major fields, Machine Learning (ML) and Neural Networks (NN). Both are subfields under Artificial Intelligence, and each one has its methods and algorithms to help solve problems.
+
+
+Preview
+What's the connection between AI and ML?
+Although AI and ML aren't synonymous, they share a close relationship. To simplify their correlation:
+
+AI encompasses the broader idea of enabling machines to emulate human-like abilities, such as sensing, reasoning, acting, or adapting.
+ML operates within the realm of AI, focusing on using data to autonomously extract knowledge and learn.
+An effective analogy is to view AI and ML as umbrella terms. AI encompasses various specific approaches and algorithms, with machine learning as one component. This umbrella also covers subfields like deep learning, robotics, expert systems, and natural language processing.
+
+Quiz
+1
+Artificial Intelligence is _____
+
+
+a branch of computer algorithms that facilitates an expert machine to make accurate predictions
+
+
+is a branch of computer science constituting underlying technology that governs expert machines
+
+
+a branch of computer science that constitutes underlying technology that enables computers to simulate human intelligence
+
+Correct!
+2
+Which of the following statements about machine learning is TRUE?
+
+
+Machine learning is the intelligence technology that provides computers with advanced abilities to execute processes without being specifically programmed to do so
+
+
+Machine learning and Artificial intelligence are synonymous
+
+
+Machine learning is the intelligent technology an expert system uses to make accurate predictions
+
+
+Machine learning is the intelligence technology developed for expert machines to facilitate the learning processes of various tasks
+
+Correct!
+3
+True or False: The late 1980s marked a resurgence in the development of artificial intelligence (AI), driven by advancements in areas like chess and computer vision.
+
+
+True
+
+
+False
+
+Correct!
